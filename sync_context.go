@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/tillberg/bismuth"
+	"github.com/oguzdemir/bismuth"
 )
 
 type SyncContext struct {
